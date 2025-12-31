@@ -1,2 +1,2 @@
 # Javascript
-a code repo for js
+Check git
